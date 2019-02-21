@@ -1,5 +1,3 @@
-# Getting Started with git
 
-Created README file 
-created development branche
-going further
+this is all practice
+
